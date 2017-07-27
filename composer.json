@@ -1,5 +1,5 @@
 {
-  "name": "detect_mobile",
+  "name": "tabbabi/detect_mobile",
   "description": "This is a lightweight mobile detection based on the Mobile_Detect.php library.",
   "type": "drupal-module",
   "license": "GPL-2.0+",
